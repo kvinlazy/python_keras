@@ -10,3 +10,4 @@ dependencies:
   - scikit-learn
   - pandas_ml
   - pip
+  - keras
