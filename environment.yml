@@ -1,4 +1,8 @@
 name: example-environment
+resources:
+          requests:
+            cpu: "12"
+            memory: "30Gi"
 channels:
   - conda-forge
 dependencies:
